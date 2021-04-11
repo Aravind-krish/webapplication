@@ -41,4 +41,10 @@
       </plugin>
     </plugins>
   </build>
+  <distributionManagement>
+        <snapshotRepository>
+            <id>nexus3-snapshot</id>
+            <url>http://4ecd49c68cfc.ngrok.io//repository/deploy/</url>
+        </snapshotRepository>
+    </distributionManagement>
 </project>
