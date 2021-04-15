@@ -44,7 +44,7 @@
   <distributionManagement>
         <snapshotRepository>
             <id>nexus3</id>
-            <url>http://ff7bddbe48aa.ngrok.io/repository/maven-central/</url>
+            <url>http://65.2.74.190:8081/repository/maven-central/</url>
         </snapshotRepository>
     </distributionManagement>
 </project>
