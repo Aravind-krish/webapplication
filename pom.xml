@@ -44,7 +44,7 @@
   <distributionManagement>
         <snapshotRepository>
             <id>nexus3</id>
-            <url>http://65.2.74.190:8081/</url>
+            <url>http://65.2.74.190:8081/repository/deploy_mvn_2/</url>
         </snapshotRepository>
     </distributionManagement>
 </project>
